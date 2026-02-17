@@ -1,0 +1,25 @@
+{
+  "name": "json-formatter-chrome-extension",
+  "version": "1.0.0",
+  "description": "Open source Chrome extension to format, validate, and beautify JSON. Developer-friendly JSON viewer with syntax highlighting and tree view.",
+  "keywords": [
+    "chrome-extension",
+    "json-formatter",
+    "json-viewer",
+    "developer-tools",
+    "web-development",
+    "manifest-v3",
+    "json-validator",
+    "json-beautifier"
+  ],
+  "author": "Zovo <hello@zovo.one> (https://zovo.one)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theluckystrike/json-formatter-chrome-extension"
+  },
+  "homepage": "https://chromewebstore.google.com/detail/json-formatter-pro/gbnadjkeegkhbcoeaeaoedpojlcknnhp",
+  "bugs": {
+    "url": "https://github.com/theluckystrike/json-formatter-chrome-extension/issues"
+  }
+}
