@@ -1,0 +1,8 @@
+title: "JSON Formatter Pro — Free Open Source Chrome Extension"
+description: "Format, validate, and explore JSON directly in your browser. A fast, developer-friendly JSON viewer for Chrome."
+theme: jekyll-theme-cayman
+url: "https://theluckystrike.github.io"
+baseurl: "/json-formatter-chrome-extension"
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
